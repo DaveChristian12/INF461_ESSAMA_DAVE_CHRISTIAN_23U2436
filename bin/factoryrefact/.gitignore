@@ -1,0 +1,10 @@
+# Fichiers compilés Java
+bin/
+*.class
+
+# Fichiers temporaires
+*.log
+
+# Configuration système
+.DS_Store
+Thumbs.db
